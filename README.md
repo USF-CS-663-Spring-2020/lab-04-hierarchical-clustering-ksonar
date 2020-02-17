@@ -1,6 +1,6 @@
 # CS663 Lab 04 - Hierarchical
 
-Name : Kunal Sonar
+Name : Kunal Sonar  
 Email : ksonar@dons.usfca.edu
 
 Datasets for this lab are:
